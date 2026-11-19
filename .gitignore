@@ -1,5 +1,6 @@
 node_modules/
+artifacts/
+cache/
+coverage/
 .env
-wallet.json
-recipient.json
-results/
+*.log
